@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+        "id": 1,
+        "name": "kali",
+        "age": 65
+      },
+    {
+      "id": 2,
+      "name": "Kamal",
+      "age": 42
+    },
+    {
+      "id": 3,
+      "name": "Amila",
+      "age": 30
+    },
+    {
+      "id": 4,
+      "name": "Sunil",
+      "age": 62
+    },
+    {
+      "id": 5,
+      "name": "Namal",
+      "age": 35
+    },
+    {
+      "id": 6,
+      "name": "Kapila",
+      "age": 15
+    }
+  ]
+}
